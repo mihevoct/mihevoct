@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihevoct
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming (not really)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: u cant
 
