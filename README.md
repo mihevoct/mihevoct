@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mihevoct
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning programming (not really)
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: u cant
+
+Car-s
 
 <!---
 mihevoct/mihevoct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
